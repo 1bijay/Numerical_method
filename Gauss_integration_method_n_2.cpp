@@ -4,7 +4,7 @@ n=2 interpolating point*/
 #include<conio.h>
 #include<math.h>
 #define f(x) exp(x)
-void main()
+int  main()
 {
     "command";
     
